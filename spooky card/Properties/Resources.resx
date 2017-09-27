@@ -124,4 +124,13 @@
   <data name="doot doot" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\doot doot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="mgs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Exclamation Point (!) Metal Gear Solid Sound Effect.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="mts" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\mts.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ws" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wilhelm Scream sound effect.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
